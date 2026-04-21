@@ -60,4 +60,4 @@
 
 ## 📄 许可证
 
-GPL v3
+MIT License
